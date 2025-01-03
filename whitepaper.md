@@ -24,7 +24,7 @@ WEDDING COIN addresses these problems by:
 ## 4. Technical Overview  
 - **Blockchain Platform:** Ethereum (ERC-20) or Binance Smart Chain (BEP-20).  
 - **Token Name:** WEDDING COIN (WEDDING).  
-- **Total Supply:** 1,000,000 WEDDING.  
+- **Total Supply:** 100,000,000 WEDDING.  
 - **Token Allocation:**  
   - 50% — Public Sale.  
   - 30% — Project Development.  
